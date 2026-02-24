@@ -8,7 +8,6 @@
 - 🎓 **Education:** DevOps Engineering Student at **IITC (Israel)**.
 - 🏗️ **Learning:** Masterminding CI/CD pipelines, Cloud Architecture, and Containerization.
 - 🛡️ **Philosophy:** If you have to do it twice, **automate it.**
-- 🗺️ **Travel Note:** Exploring the world (gluten-free!)—just don't ask me to hop on a motorcycle in Vietnam. ❌🏍️
 
 ---
 
