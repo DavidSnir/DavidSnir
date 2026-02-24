@@ -1,34 +1,43 @@
-# Hi there, I'm [David Snir] 👋
+# 🛠️ DevOps Engineer in Training | IITC Student
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=150&section=header&text=Infrastructure%20as%20Code&fontSize=50" />
 </p>
 
-### 🛠 Tools of the Trade
+### 👨‍💻 About Me
+- 🎓 **Education:** DevOps Engineering Student at **IITC (Israel)**.
+- 🏗️ **Learning:** Masterminding CI/CD pipelines, Cloud Architecture, and Containerization.
+- 🛡️ **Philosophy:** If you have to do it twice, **automate it.**
+- 🗺️ **Travel Note:** Exploring the world (gluten-free!)—just don't ask me to hop on a motorcycle in Vietnam. ❌🏍️
+
+---
+
+### 🛠️ Tech Stack & Learning Path
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,jenkins,ansible,terraform,aws,azure,git,python" />
 </p>
 
 ---
 
-### 🔭 Current Focus
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Advanced System Design**
-- 💬 Ask me about **React, Clean Code, or Travel Tips**
-- ⚡ Fun fact: **I don't do motorcycles in Vietnam, but I'll find the best gluten-free Pho in Hanoi.**
+### 📂 IITC Projects & Progress
+
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats & Infrastructure Health
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USER]&layout=compact&langs_count=7&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USER]&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/[YOUR_USER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YOUR_USER]" height="30" width="40" /></a>
-<a href="https://twitter.com/[YOUR_USER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YOUR_USER]" height="30" width="40" /></a>
+### 🛰️ Monitoring & Connectivity
+- 📧 **Reach out:** david.snir@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/david-snir-992a323b2/
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_Foundations-green?style=for-the-badge&logo=statuspage" />
 </p>
